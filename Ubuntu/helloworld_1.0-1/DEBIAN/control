@@ -1,0 +1,10 @@
+Package: helloworld
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: i386
+Maintainer: sreddy@dnanexus.com
+Description: Hello World
+ Hello world Program
+
+ (the space before each line in the description is important)
